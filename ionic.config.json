@@ -1,0 +1,8 @@
+{
+  "name": "Lost & Found TUD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "a4f2c0e5"
+}
